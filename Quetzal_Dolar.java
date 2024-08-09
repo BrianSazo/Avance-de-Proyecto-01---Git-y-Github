@@ -11,7 +11,7 @@ public class Quetzal_Dolar {
     
        public static void main(String[] args) {
         /**
-         * se Definen las variables como Reales
+         * Se Definen las variables Quetzales, Dolares y Total como Reales
          */
         double Quetzales, Dolares, Total;
         Scanner scanner = new Scanner(System.in);
