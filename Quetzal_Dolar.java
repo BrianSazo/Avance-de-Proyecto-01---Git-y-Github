@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @author sazo
  */
 /**
- * Permite calcular la conversion de quetzales a dolares
+ * Esto le Permite calcular la conversion de quetzales a dolares
  */
 public class Quetzal_Dolar {
     
