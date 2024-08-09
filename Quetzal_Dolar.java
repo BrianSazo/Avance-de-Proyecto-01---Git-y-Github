@@ -30,7 +30,7 @@ public class Quetzal_Dolar {
          */
         Total = Quetzales / Dolares;
         /**
-         * se muestra la cantidad de dolares equivalente a la cantidad de quetzales
+         * se muestra la cantidad de dolares equivalente a la cantidad de quetzales que anteriormente se ingresaron
          */
         System.out.println("La cantidad de dólares es: " + Total);
     }
